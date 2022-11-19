@@ -19,4 +19,9 @@
 
 Jubal is currently having multiple update, open repo!
 
+#First look (Currently looking like)
+
+
+![Screen Shot 2022-11-19 at 5 18 14 PM (2)](https://user-images.githubusercontent.com/101422810/202873621-9d150613-4d5c-42e3-9a6b-f77a1960176c.png)
+
 
