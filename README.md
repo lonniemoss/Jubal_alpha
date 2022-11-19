@@ -17,7 +17,7 @@
 #SIDE NOTE
 
 
-Jubal is currently having multiple update, open repo!
+Jubal is currently having multiple update, open repo! Using C++ and Juce Framework
 
 #First look (Currently looking like)
 
